@@ -1,0 +1,27 @@
+body{
+    background-image:url('NASA.jpg');
+    min-height:100%;
+    position:relative;
+    background-position:center;
+    background-size:cover;
+    background-attachment: fixed;
+}
+  .ptext{
+      background-color:black;
+      color:white;
+      border-radius: 20px;
+      padding: 30px;
+      font-family: 'Montserrat Alternates', sans-serif;
+      font-size: xx-large;
+      margin-left: 500px;
+      margin-right: 480px;
+      border-radius: 20px;
+      margin-top: 340px;
+      transition: transform .2s;
+  }
+  .ptext:hover {
+    transform: scale(1.5); 
+  }
+  .ab:hover{
+    color: aqua;
+  }

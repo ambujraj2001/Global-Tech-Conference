@@ -1,0 +1,39 @@
+.h1h{
+    font-family: 'Comfortaa', cursive;
+    text-align: center;
+    font-size: larger;
+    font-size: 55px;
+    transition: transform .2s;
+    
+}
+
+
+.a1{
+    margin-left: 15px;
+}
+.a1i{
+    float: right;
+    margin-top: 100px;
+    margin-right: 10px;
+    border-radius: 10px;
+    margin-left: 10px;
+   
+}
+.h1ha{font-family: 'Quattrocento Sans', sans-serif;
+    font-size:40px;
+
+}
+.p1{
+    font-family: 'Spartan', sans-serif;
+    font-weight: 1000;
+    letter-spacing: 1px;
+    margin-right: 270px;
+   
+}
+.h1ha:hover{
+    color: #5383d3;
+}
+.h1h:hover{
+    color: #5383d3;
+    transform: scale(1.5);
+}

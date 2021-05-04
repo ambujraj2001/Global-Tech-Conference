@@ -1,0 +1,48 @@
+
+.c{
+    font-weight: bolder;
+    /*font-family: 'Montserrat Alternates', sans-serif;*/
+    font-size: 50px;
+    text-align: center;
+   /* font-family: 'Volkhov', serif;*/
+  /* font-family: 'Antic', sans-serif;*/
+   font-family: 'Comfortaa', cursive;
+   
+   transition: transform .2s;
+}
+.c:hover{
+    color: #5383d3;
+   
+    transform: scale(1.5);
+}
+
+.tt{font-family: 'Antic', sans-serif;
+    margin-left: 325px;
+    font-style: italic;
+    font-weight: bold;
+
+}
+table, th, td {
+    border: 2px solid black;
+    font-size: 25px;
+    padding: 25px;
+    margin: 10px;
+  }
+
+.name{
+    font-family: 'Balsamiq Sans', cursive;
+    font-style: normal;
+    font-size: larger;
+    transition: transform .2s;
+    letter-spacing: 1px;
+}
+.name:hover{
+    color: #5383d3;
+    transform: scale(1.5);
+}
+.para{text-align: center;
+    color: white;
+    margin-top: 9px;
+    font-size:30px;
+    font-family: 'Balsamiq Sans', cursive;
+}

@@ -1,0 +1,122 @@
+.asd{
+    background-image:url('11.jpg');
+    min-height:100%;
+    position:relative;
+    background-position:center;
+    background-size:cover;
+    background-attachment: fixed;
+    margin-top: 0%;
+}
+.asde{
+    background-image:url('13.png');
+    min-height:100%;
+    position:relative;
+    background-position:center;
+    background-size:cover;
+    background-attachment: fixed;
+    margin-top: 0%;
+    
+}
+.ptext{
+    
+    color:white;
+    border-radius: 20px;
+    padding: 30px;
+    /*font-family: 'Pacifico', cursive;*/
+    font-family: 'Alfa Slab One', cursive;
+   /* font-family: 'Montserrat Alternates', sans-serif;*/
+    font-size: 50px;
+   text-align: center;
+    border-radius: 20px;
+   
+    transition: transform .2s;
+}
+.ptext:hover {
+  transform: scale(1.5); 
+}
+.ab:hover{
+  color:  #5383d3;
+}
+.ptext0{
+    
+    color:white;
+    border-radius: 20px;
+   
+    /*font-family: 'Pacifico', cursive;*/
+    font-family: 'Alfa Slab One', cursive;
+   /* font-family: 'Montserrat Alternates', sans-serif;*/
+    font-size: 30px;
+   text-align: center;
+    border-radius: 20px;
+    transition: transform .2s;
+}
+.ptext0:hover {
+  transform: scale(1.5); 
+}
+.aba:hover{
+    color:  #5383d3;
+  }
+  .ptext2{
+    background:rgb(5, 200, 235) ;
+    
+    opacity: 0.6;
+  margin-left: 800px;
+  margin-right: 200px;
+    /*font-family: 'Pacifico', cursive;*/
+    font-family: 'Alfa Slab One', cursive;
+   /* font-family: 'Montserrat Alternates', sans-serif;*/
+    font-size: 30px;
+   text-align: center;
+}
+.alpha{
+    color: white;
+    opacity: 2;
+}
+.abcd{
+    color: white;
+    opacity: 2;
+    transition: transform .2s;
+    text-align: left;
+    text-decoration: none;
+}
+.abcd:hover{
+    transform: scale(1.5); 
+    opacity: 2;
+
+}
+.ulist{
+    color: white;
+    font-size: small
+}
+
+.sub{margin-top: -18px;
+  margin-bottom: -18px;
+  background: #5383d3;
+}
+.h2hh{margin-left: 200px;
+  color: white;
+  font-family: 'IBM Plex Serif', serif;
+  letter-spacing: 1px;
+}
+.span1{
+  border: solid white;
+  font-size: small;
+  padding-top: 6px;
+  padding-bottom: 6px;
+  padding-left: 6px;
+  padding-right: 6px;
+}
+.beta{
+  margin-top: 18px;
+  margin-right: -2px;
+}
+.beta1{
+  margin-top: -18px;
+  margin-right: -2px;
+  margin-bottom: 12px;
+}
+.beta0{
+  margin-top: 18px;
+  margin-right: -2px;
+  margin-right: -15px;
+}

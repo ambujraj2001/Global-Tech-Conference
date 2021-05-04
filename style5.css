@@ -1,0 +1,34 @@
+.asd{
+    background-image:url('GT.png');
+    min-height:100%;
+    position:relative;
+    background-position:center;
+    background-size:contain;
+    background-attachment: fixed;
+    margin-top: 0%;
+   
+}
+.kala{
+    float: right;
+    border-radius: 10px;
+    height: 400px;
+    width: 400px;
+    margin-right: 15px;
+    margin-top: 70px;
+}
+.lk{font-family: 'Quattrocento Sans', sans-serif;
+    margin-left: 300px;
+    font-size: 30px;
+  
+}
+.h1haa{font-family: 'Quattrocento Sans', sans-serif;
+    font-size:40px;
+    margin-left: 15px;
+}
+.parap{font-family: 'Quattrocento Sans', sans-serif;
+    
+    font-size: 30px;
+    margin-left: 15px;
+    margin-right: 400px;
+
+}
