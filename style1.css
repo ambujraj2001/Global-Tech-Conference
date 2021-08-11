@@ -19,9 +19,7 @@ body{
       margin-top: 340px;
       transition: transform .2s;
   }
-  .ptext:hover {
-    transform: scale(1.5); 
-  }
+ 
   .ab:hover{
     color: aqua;
   }
